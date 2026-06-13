@@ -1,0 +1,41 @@
+main:
+  - title: "News"
+    url: /posts/
+  - title: "About"
+    url: /about/
+
+
+
+# documentation links
+docs:
+  - title: "Navigation"
+    children:
+    - title: "Biosuits"
+      url: /biosuits/
+    - title: "Sacred Weapons"
+      url: /sacredweapons/
+    - title: "Factions"
+      url: /factions/
+    - title: "Monsters"
+      url: /monsters/
+    - title: "Skills"
+      url: /skills/
+    - title: "Upgrade rates"
+      url: /upgraderates/
+    
+      
+  - title: "Language"
+    children:
+      - title: "RF Online NEXT"
+        url: /
+        isactive: 1
+        img: /images/nav/us.svg
+        hreflang: en
+      - title: "RF Online NEXT"
+        url: /de/
+        img: /images/nav/de.svg
+        hreflang: de
+      - title: "RF Online NEXT"
+        url: /ru/
+        img: /images/nav/ru.svg
+        hreflang: ru
