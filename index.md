@@ -43,15 +43,15 @@ This information portal contains information about "RF Online NEXT" mobile game 
 
 You will find here (TBD):
 <h1> Beginner's Guide </h1>
-<h1> Biosuit Classes </h1> <p>Punisher · Destroyer · Dreadnought · Cypher · Medic · Demolition</p>
-<h1> Sacred Weapons </h1> <p>MAU · Launcher · Animus — upgrade priority and combat tactics.</p>
-<h1> Faction Warfare </h1> <p>Bellato, Cora, Accretia: strengths, lore, and PvP meta.</p>
+<h1> <a href="/biosuits/" hreflang="en">Biosuit Classes</a> </h1> <p>Punisher · Destroyer · Dreadnought · Cypher · Medic · Demolition</p>
+<h1> <a href="/sacredweapons/" hreflang="en">Sacred Weapons</a> </h1> <p>MAU · Launcher · Animus — upgrade priority and combat tactics.</p>
+<h1> <a href="/factions/" hreflang="en">Faction Warfare</a> </h1> <p>Bellato, Cora, Accretia: strengths, lore, and PvP meta.</p>
 <h1> Endgame Gear Sets</h1> <p>Deep Space Stargazer set, raid loot tables, enchantment guide.</p>
 <h1> Abyss Dungeon</h1> <p>Mechanics, team comps, boss strategy (level 88+).</p>
-<h1> Monsters </h1>
+<h1> <a href="/monsters/" hreflang="en">Monsters</a> </h1>
 <h1> Weapons </h1>
-<h1> Skills </h1>
-<h1> Upgrade rates </h1>
+<h1> <a href="/skills/" hreflang="en">Skills</a> </h1>
+<h1> <a href="/upgraderates/" hreflang="en">Upgrade rates</a> </h1>
 <h1> Wars </h1>
 
 <br/>
