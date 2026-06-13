@@ -21,8 +21,4 @@ Content submitted as feedback are not licensed under the CC BY-SA licenses.
 
 Official web site - [RF Online NEXT](https://rfonlinenextgb.netmarble.com/en/)
 
-<i class="far fa-copyright"/> Netmarble Corp. & Netmarble N2 Inc. All Rights Reserved.
-
-[Terms of Service](https://help.netmarble.com/en/terms/terms_of_service_en?locale=&lcLocale=en)
-
-[Privacy Policy](https://help.netmarble.com/en/terms/privacy_policy_en)
+<i class="far fa-copyright"/> **Netmarble Corp. & Netmarble N2 Inc. All Rights Reserved.** [Terms of Service](https://help.netmarble.com/en/terms/terms_of_service_en?locale=&lcLocale=en) [Privacy Policy](https://help.netmarble.com/en/terms/privacy_policy_en)
