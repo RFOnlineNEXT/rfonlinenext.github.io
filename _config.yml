@@ -267,10 +267,10 @@ defaults:
 
 compress_html:
   clippings: all                    # Removes whitespace around elements
-  comments: ["", ""]                # Removes HTML comments
-  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]  # Removes optional closing tags
+  comments: [""]                # Removes HTML comments
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
   blanklines: false                 # Set to true to collapse only blank lines
   profile: false                    # Set to true to see compression stats
   ignore:
-    envs: []             # Disables compression in development
+    envs: []                    # Disables compression in development
 #    envs: [development]             # Disables compression in development
