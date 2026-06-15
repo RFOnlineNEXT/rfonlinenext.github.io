@@ -14,7 +14,7 @@ classes: wide
 
 ## Details
 
- **Info: Biosuit focused on ranged firepower\u003Cbr\u003EUses physical attacks and excels in a variety of missions.**
+ **Info: Biosuit focused on ranged firepower<br>Uses physical attacks and excels in a variety of missions.**
 
  **Description:** Punishers dominate the battlefield with bullets and fire.<br> Once one dons a Punisher biosuit, <br>they become a seasoned veteran of countless wars, <br>able to assess enemies with precision <br>and carry out deadly tactical missions.
 

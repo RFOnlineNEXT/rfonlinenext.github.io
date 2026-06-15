@@ -14,7 +14,7 @@ classes: wide
 
 ## Details
 
- **Info: A biosuit equipped with devastating heavy weaponry, \u003Cbr\u003Eembodying the peak of firepower combat.**
+ **Info: A biosuit equipped with devastating heavy weaponry, <br>embodying the peak of firepower combat.**
 
  **Description:** Excelling at mid- to long-range combat, it delivers devastating physical attacks and provides powerful fire support across the battlefield. <br>Drawing destructive energy at the heart of the battlefield, it unleashes overwhelming firepower to completely annihilate all enemies.
 

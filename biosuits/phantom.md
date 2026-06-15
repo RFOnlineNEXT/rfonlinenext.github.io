@@ -14,7 +14,7 @@ classes: wide
 
 ## Details
 
- **Info: Biosuit focused on melee combat\u003Cbr\u003EUses physical attacks and is ideal for PVP missions.**
+ **Info: Biosuit focused on melee combat<br>Uses physical attacks and is ideal for PVP missions.**
 
  **Description:** Phantoms are cold-blooded assassins with terrifying speed.<br>Once one dons a Phantom biosuit, <br>they became able to strike with agility and precision, <br>devastating enemies and inflicting fatal, irrecoverable wounds.
 
