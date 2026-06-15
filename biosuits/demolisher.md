@@ -29,6 +29,8 @@ Demolishers utilize heavy weaponry to deal consistent physical damage. Unlike tr
 
 Introduced in the May 2026 update
 
+{% include video id="RaCfpc0L7fM" provider="youtube" %}
+
 ## Skills & Mechanics
 
 The Demolisher's kit revolves around explosive ordnance and shield generation to maintain uptime in fights.
@@ -75,6 +77,3 @@ To maximize the Demolisher's potential, focus on the following stats in your ski
 ## Verdict
 
 The **Demolisher** is a must-have for players who focus on **PvE progression** and **large-scale faction wars**. While it lacks the mobility for top-tier 1v1 PvP, its unmatched AoE physical damage and unique Overhit mechanic make it one of the most satisfying classes for farming and siege warfare.
-
-{% include video id="RaCfpc0L7fM" provider="youtube" %}
-
