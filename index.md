@@ -42,8 +42,8 @@ This information portal contains information about "RF Online NEXT" mobile game 
 {% include video id="fNAqN5qaSLw" provider="youtube" %}
 
 You will find here (TBD):
+<h1> <a href="/biosuits/" hreflang="en">Biosuit Classes</a> </h1> [Technician](/biosuits/Technician/) [Dreadnought](/biosuits/Dreadnought/) [Psypher](/biosuits/Psypher/) [Phantom](/biosuits/Phantom/) [Arbiter](/biosuits/Arbiter/) [Punisher](/biosuits/Punisher/) [Demolisher](/biosuits/Demolisher/) [Enforcer](/biosuits/Enforcer/)
 <h1> Beginner's Guide </h1>
-<h1> <a href="/biosuits/" hreflang="en">Biosuit Classes</a> </h1> <p>[Technician](/biosuits/Technician/) [Dreadnought](/biosuits/Dreadnought/) [Psypher](/biosuits/Psypher/) [Phantom](/biosuits/Phantom/) [Arbiter](/biosuits/Arbiter/) [Punisher](/biosuits/Punisher/) [Demolisher](/biosuits/Demolisher/) [Enforcer](/biosuits/Enforcer/)</p>
 <h1> <!--<a href="/sacredweapons/" hreflang="en" </a> -->Sacred Weapons </h1> <p>MAU · Launcher · Animus — upgrade priority and combat tactics.</p>
 <h1> <!--<a href="/factions/" hreflang="en"> </a>-->Faction Warfare </h1> <p>Bellato, Cora, Accretia: strengths, lore and PvP meta.</p>
 <h1> Endgame Gear Sets</h1> <p>Deep Space Stargazer set, raid loot tables, enchantment guide.</p>
