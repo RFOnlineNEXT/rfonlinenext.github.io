@@ -13,7 +13,7 @@ sidebar:
 
 {% capture notice-update20260616 %}
 
-You can select a server and create your character right now. Act fast to reserve your name for the journey ahead!
+**You can select a server and create your character right now. Act fast to reserve your name for the journey ahead!**
 
 ![RF ONLINE NEXT - Download](https://sgimage.netmarble.com/mobile/game/rfnext/dm/260616/img/en_img1.jpg)
 
