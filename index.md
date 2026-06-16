@@ -23,7 +23,7 @@ Be ready for fast grow -> download today and register your character in one of 4
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">16 May 2026 RF Online NEXT Pre-download begins now</h4>
+  <h4 class="no_toc">16 May 2026 RF Online NEXT Pre-download begins now -> Register character </h4>
   {{ notice-update20260616 | markdownify }}
 </div>
 
