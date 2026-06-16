@@ -11,6 +11,42 @@ sidebar:
 ---
 
 
+{% capture notice-update20260616 %}
+
+![RF ONLINE NEXT - Download](https://sgimage.netmarble.com/mobile/game/rfnext/dm/260616/img/en_img1.jpg)
+
+Pre-Download is available for all platforms - iOS, Android and PC. The download package is about 8 Gb, like strong AAA game.
+Be ready for fast grow -> download today and register your character in one of 4 servers per region: Asia, Europe and US.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">16 May 2026 RF Online NEXT Pre-download begins now</h4>
+  {{ notice-update20260616 | markdownify }}
+</div>
+
+
+
+![RF Online NEXT Wiki](https://rfonlinenext.github.io/rfonlinenextwiki.jpg)
+
+This information portal contains information about "RF Online NEXT" mobile game (iOS/Android/PC). 
+
+{% include video id="fNAqN5qaSLw" provider="youtube" %}
+
+<h1> <a href="/biosuits/" hreflang="en">Biosuit Classes</a> </h1> [Technician](/biosuits/Technician/) [Dreadnought](/biosuits/Dreadnought/) [Psypher](/biosuits/Psypher/) [Phantom](/biosuits/Phantom/) [Arbiter](/biosuits/Arbiter/) [Punisher](/biosuits/Punisher/) [Demolisher](/biosuits/Demolisher/) [Enforcer](/biosuits/Enforcer/)
+
+You will find here (TBD):
+<h1> Beginner's Guide </h1>
+<h1> <!--<a href="/sacredweapons/" hreflang="en" </a> -->Sacred Weapons </h1> <p>MAU · Launcher · Animus — upgrade priority and combat tactics.</p>
+<h1> <!--<a href="/factions/" hreflang="en"> </a>-->Faction Warfare </h1> <p>Bellato, Cora, Accretia: strengths, lore and PvP meta.</p>
+<h1> Endgame Gear Sets</h1> <p>Deep Space Stargazer set, raid loot tables, enchantment guide.</p>
+<h1> Abyss Dungeon</h1> <p>Mechanics, team comps, boss strategy (level 88+).</p>
+<h1> <!--<a href="/monsters/" hreflang="en"> </a>-->Monsters </h1>
+<h1> Weapons </h1>
+<h1> <!--<a href="/skills/" hreflang="en"> </a> -->Skills </h1>
+<h1> <!--<a href="/upgraderates/" hreflang="en">  </a> -->Upgrade rates </h1>
+<h1> Wars </h1>
+
 {% capture notice-update20260612 %}
 
 ![RF ONLINE NEXT - Global launch](https://channeln.gcdn.netmarble.com/channeln/Upload/ba7107dd-a5fd-447b-9b97-8a8a752dfe08.jpg)
@@ -32,29 +68,6 @@ sidebar:
   <h4 class="no_toc">12 May 2026 RF Online NEXT Pre-registration is live</h4>
   {{ notice-update20260612 | markdownify }}
 </div>
-
-
-
-![RF Online NEXT Wiki](https://rfonlinenext.github.io/rfonlinenextwiki.jpg)
-
-This information portal contains information about "RF Online NEXT" mobile game (iOS/Android/PC). 
-
-{% include video id="fNAqN5qaSLw" provider="youtube" %}
-
-You will find here (TBD):
-<h1> <a href="/biosuits/" hreflang="en">Biosuit Classes</a> </h1> [Technician](/biosuits/Technician/) [Dreadnought](/biosuits/Dreadnought/) [Psypher](/biosuits/Psypher/) [Phantom](/biosuits/Phantom/) [Arbiter](/biosuits/Arbiter/) [Punisher](/biosuits/Punisher/) [Demolisher](/biosuits/Demolisher/) [Enforcer](/biosuits/Enforcer/)
-<h1> Beginner's Guide </h1>
-<h1> <!--<a href="/sacredweapons/" hreflang="en" </a> -->Sacred Weapons </h1> <p>MAU · Launcher · Animus — upgrade priority and combat tactics.</p>
-<h1> <!--<a href="/factions/" hreflang="en"> </a>-->Faction Warfare </h1> <p>Bellato, Cora, Accretia: strengths, lore and PvP meta.</p>
-<h1> Endgame Gear Sets</h1> <p>Deep Space Stargazer set, raid loot tables, enchantment guide.</p>
-<h1> Abyss Dungeon</h1> <p>Mechanics, team comps, boss strategy (level 88+).</p>
-<h1> <!--<a href="/monsters/" hreflang="en"> </a>-->Monsters </h1>
-<h1> Weapons </h1>
-<h1> <!--<a href="/skills/" hreflang="en"> </a> -->Skills </h1>
-<h1> <!--<a href="/upgraderates/" hreflang="en">  </a> -->Upgrade rates </h1>
-<h1> Wars </h1>
-
-
 
 <br/>
 <br/>
