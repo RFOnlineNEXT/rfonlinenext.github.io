@@ -11,6 +11,21 @@ sidebar:
 ---
 
 
+{% capture notice-update20260616_2 %}
+
+For maximum performance we recommend You to choose between 2 "S-Class" BioSuits:
+![Arbiter_Logo](https://sgimage.netmarble.com/images/netmarble/rfnext/20250904/t3tj1756973406514.png) [Arbiter](/biosuits/Arbiter/)
+![Demolisher_Logo](https://sgimage.netmarble.com/images/netmarble/rfnext/20260526/bkgz1779758613576.png) [Demolisher](/biosuits/Demolisher/)
+
+Additionally, please check all possible [BioSuites](/biosuits/) on Wiki.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">16 May 2026 RF Online NEXT - Our recommendation to BioSuits for fast level up</h4>
+  {{ notice-update20260616_2 | markdownify }}
+</div>
+
 {% capture notice-update20260616 %}
 
 **You can select a server and create your character right now. Act fast to reserve your name for the journey ahead!**
